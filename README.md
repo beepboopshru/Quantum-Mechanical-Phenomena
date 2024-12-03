@@ -1,6 +1,3 @@
-Here's an example of a **README.md** for your project involving quantum mechanics, Schrödinger's equation, and related concepts:
-
-```markdown
 # Quantum Mechanics Simulation Project
 
 This project simulates various quantum mechanical phenomena, including the Schrödinger equation, quantum tunneling, wavefunctions, and more. The project involves solving key equations and visualizing the behavior of particles, such as electrons, under different conditions, using Python.
